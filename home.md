@@ -10,3 +10,6 @@ My goal is to receive a certification in coding.  by receiving a certification i
 so that i may work from home.  I also want to get a fun company job at a tech company so i can continue my learning from others 
 & create "out-of-this-world" projects.  The reason why receiving a coding certification is important to me is due to that I want 
 my financial independence and freedom to elevate.
+
+# Post 1 - Oct 9
+Today I learned about git, github, and pull requests.
